@@ -18,5 +18,5 @@ while True:
         print("its older age for teen group")
         continue
 print(white,"the valid age is" ,yellow  , count)
-print(white,"the player is older then",yellow,count16)
+print(white,"the player is older then sixteen",yellow,count16)
 
