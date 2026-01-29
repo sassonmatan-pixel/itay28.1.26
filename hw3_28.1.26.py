@@ -14,14 +14,9 @@ while True:
                 count16 += 1
     else:
         break
-    if age > 18 and count > 0:
-        print("i don't want old player")
-        break
     if age > 18:
-        break
-if count == 0:
-    print("i can't find a player")
-else:
-    print(white,"the valid age is" ,yellow  , count)
-    print(white,"the player is older then",yellow,count16)
+        print("its older age for teen group")
+        continue
+print(white,"the valid age is" ,yellow  , count)
+print(white,"the player is older then",yellow,count16)
 
