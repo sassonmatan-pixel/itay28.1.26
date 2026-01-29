@@ -1,15 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="46cabdfd-00a7-46a8-a8b5-127c6d98e436" name="Changes" comment="" />
+    <list default="true" id="46cabdfd-00a7-46a8-a8b5-127c6d98e436" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hw1_28.1.26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2_28.1.26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3_28.1.26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4_28.1.26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l1_itay28.1.26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l2_itay28.1.26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l3_itay28.1.26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l4_itay28.1.26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/itay28.1.26.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/itay28.1.26.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itay28.1.26.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sassonmatan-pixel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sassonmatan-pixel/itay28.1.26.git&quot;,
+    &quot;accountId&quot;: &quot;d62c7d21-63ba-454a-bec6-d707e5b8c15c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="38tYJX60UuwiEuN1SosexSZY3gN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,7 +55,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.hw28.1.26.executor": "Run",
+    "Python.hw2_28.1.26.executor": "Run",
+    "Python.hw3_28.1.26.executor": "Run",
+    "Python.hw4_28.1.26.executor": "Run",
+    "Python.itay28.1.26.executor": "Run",
+    "Python.l1_itay28.1.26.executor": "Run",
+    "Python.l2_itay28.1.26.executor": "Run",
+    "Python.l3_itay28.1.26.executor": "Run",
+    "Python.l4_itay28.1.26.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
